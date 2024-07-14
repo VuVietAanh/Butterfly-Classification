@@ -1,6 +1,9 @@
 # Butterfly-Classification 
 (Data: https://www.kaggle.com/datasets/vietanhvuhe173162/deep-learning/code?datasetId=5271682)
 
+![th](https://github.com/user-attachments/assets/c9f4195f-9f3d-4157-8036-9d6950886b3f)
+
+
 **Butterfly Classification** is a specialized field in biology that focuses on categorizing and identifying butterfly species based on various aspects such as morphological, ecological, and genetic characteristics. Butterflies are one of the most diverse and abundant groups of insects in the world, with over 20,000 species recorded and many more yet to be discovered. Classifying butterflies not only enhances our understanding of biodiversity but also plays a crucial role in species conservation and ecosystem preservation.
 
 The classification process begins with the collection of specimens from various habitats. Researchers then observe and document the butterflies' physical characteristics, such as color, wing shape, size, patterns, and body structure. These features help distinguish different species and assign their scientific names. Additionally, scientists utilize genetic analysis to study the DNA of butterflies, allowing for a more precise classification and the discovery of new species. This research contributes significantly to nature conservation by identifying and protecting endangered species and providing valuable information for ecological and environmental studies.
